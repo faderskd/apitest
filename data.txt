@@ -6,5 +6,5 @@
     "magenta":"#f0f",
     "yellow":"#ff0",
     "black":"#000",
-    "newkey":"new value",
+    "newkey":"new value"
 }
